@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-02-10T14:59:50 CST" name="Default suite" finished-at="2020-02-10T15:00:01 CST" duration-ms="11749">
+    <groups>
+    </groups>
+    <test started-at="2020-02-10T14:59:50 CST" name="Default test" finished-at="2020-02-10T15:00:01 CST" duration-ms="11749">
+      <class name="printerlogic.login">
+        <test-method signature="LoginPass()[pri:0, instance:printerlogic.login@161b062a]" started-at="2020-02-10T14:59:50 CST" name="LoginPass" description="Successful scenario of the Login page &lt;br&gt;Steps:  &lt;br&gt;1. Enter a valid user and password &lt;br&gt;2. Click the Login button" finished-at="2020-02-10T15:00:01 CST" duration-ms="11701" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginPass -->
+      </class> <!-- printerlogic.login -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
