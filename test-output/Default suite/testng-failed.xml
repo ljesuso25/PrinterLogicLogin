@@ -5,7 +5,7 @@
     <classes>
       <class name="printerlogic.login">
         <methods>
-          <include name="LoginPass"/>
+          <include name="LostPassword"/>
         </methods>
       </class> <!-- printerlogic.login -->
     </classes>

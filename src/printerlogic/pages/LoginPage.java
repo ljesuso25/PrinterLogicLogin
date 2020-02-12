@@ -41,6 +41,11 @@ public class LoginPage {
 	}
 	
 	
-	
+	//Lost password
+	public static WebElement lostpwd(WebDriver driver) {
+		element = driver.findElement(By.id("forgot-password"));
+		
+		return element;
+	}
 
 }
